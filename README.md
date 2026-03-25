@@ -28,7 +28,7 @@ The dataset includes:
 ![Absenteeism]([PASTE-FIRST-IMAGE-LINK](https://github.com/Faith693/employee-absenteeism-analysis/blob/main/Absenteeism.png))
 
 ### 🔹 Absenteeism Cost Analysis
-![Absenteeism Cost](PASTE-SECOND-IMAGE-LINK)
+![Absenteeism Cost]([PASTE-SECOND-IMAGE-LINK](https://github.com/Faith693/employee-absenteeism-analysis/blob/main/Absenteeism%20Cost.png))
 
 ---
 
